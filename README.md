@@ -1,5 +1,6 @@
 # nodejs-rest-api
-Steps to run the APP.
+Steps to run the APP.<br>
+
 A) Create the folder and unzip the code.
 
 B) Go to current create folder through terminal and run the command npm install(Insure node.js installed in the system).
