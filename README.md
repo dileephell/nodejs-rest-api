@@ -3,7 +3,7 @@ API
 
 
 http://localhost:3000/users/register 
-
+![alt text](Img/Register.png)
 
 http://localhost:3000/users/authenticate 
 
