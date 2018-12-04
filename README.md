@@ -48,3 +48,6 @@ http://localhost:3000/movies/5bffd19b0262b02d9cbffa44
 
 http://localhost:3000/account 
 ![alt text](Img/Account.png)
+
+http://localhost:3000/api-docs/#/
+![alt text](Img/Swager.png)
