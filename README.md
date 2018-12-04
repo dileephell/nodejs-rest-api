@@ -3,7 +3,7 @@ Steps to run the APP.<br>
 
 A) Create the folder and unzip the code.
 
-B) Go to current create folder through terminal and run the command npm install(Insure node.js installed in the system).
+B) Go to current create folder through terminal and run the command npm install(Ensure node.js installed in the system).
 
 C) Check for any error in the terminal,if any package is missing or unable to install.
 
